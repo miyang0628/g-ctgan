@@ -2,7 +2,7 @@
 
 Replication code for:
 
-> Yang, M. (2026). Oversampling Method Combining Gaussian Mixture Model and CTGAN
+> Oversampling Method Combining Gaussian Mixture Model and CTGAN
 > for Imbalanced Data Classification.
 
 ---
