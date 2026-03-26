@@ -1,0 +1,5 @@
+dataset,description,n_total,n_features,n_minority,n_majority,minority_ratio_%
+credit_default,UCI Default of Credit Card Clients,30000,23,6636,23364,22.12
+credit_fraud,Kaggle Credit Card Fraud Detection (ULB),284807,30,492,284315,0.17
+diabetes,Kaggle Pima Indians Diabetes,768,8,268,500,34.9
+ibm_attrition,Kaggle IBM HR Analytics Attrition,1470,31,237,1233,16.12

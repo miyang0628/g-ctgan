@@ -1,0 +1,5 @@
+dataset,optimal_k,min_BIC,n_minority_train
+credit_default,9,-48519.71,4645
+credit_fraud,6,23196.13,344
+diabetes,4,3079.97,187
+ibm_attrition,10,7481.64,166
