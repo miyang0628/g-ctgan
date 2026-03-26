@@ -4,8 +4,6 @@ Replication code for:
 
 > Yang, M. (2026). Oversampling Method Combining Gaussian Mixture Model and CTGAN
 > for Imbalanced Data Classification.
-> *Journal of the Korea Institute of Information and Communication Engineering*, 29(1), 399–406.
-> https://doi.org/10.6109/jkiice.2026.29.1.399
 
 ---
 
@@ -107,15 +105,5 @@ Train/Test 분할은 `stratify=y`를 적용하여 소수 범주 비율을 보존
 ## Citation
 
 ```bibtex
-@article{yang2026gctgan,
-  title   = {Oversampling Method Combining Gaussian Mixture Model and CTGAN
-             for Imbalanced Data Classification},
-  author  = {Yang, Munil},
-  journal = {Journal of the Korea Institute of Information and Communication Engineering},
-  volume  = {29},
-  number  = {1},
-  pages   = {399--406},
-  year    = {2026},
-  doi     = {10.6109/jkiice.2026.29.1.399}
-}
+
 ```
